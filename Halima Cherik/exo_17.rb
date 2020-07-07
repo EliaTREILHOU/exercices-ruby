@@ -8,6 +8,4 @@ while year <= age
 		puts "Il y a #{year}, tu avais la moitié de l'age que tu as aujourd'hui"
 			end
 year = year+1
-
-	
 end
